@@ -17,7 +17,7 @@ A machine learning project that analyzes housing price data, performs data prepr
 
 ### Model Comparison
 
-![Model Comparison](images/Comparing model.jpeg)
+![Model Comparison](images/Comparing-model.jpeg)
 
 ---
 
