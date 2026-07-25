@@ -8,8 +8,8 @@ A machine learning project that analyzes housing price data, performs data prepr
 
 ### Dataset Overview
 
-![Dataset Preview](images/data-exploration-head.jpeg)
-![Dataset Preview](images/data-exploration-tail.jpeg)
+![Dataset Preview](images/DataExplorationHead.jpeg)
+![Dataset Preview](images/DataExplorationTail.jpeg)
 
 ### Correlation Heatmap
 
@@ -17,7 +17,7 @@ A machine learning project that analyzes housing price data, performs data prepr
 
 ### Model Comparison
 
-![Model Comparison](images/Comparing-model.jpeg)
+![Model Comparison](images/Comparingmodel.jpeg)
 
 ---
 
